@@ -1,8 +1,8 @@
 # Tarea 5 - Blog con comentarios (Utterances)
 
-**Sitio publicado:** https://SU-SITIO.netlify.app  <!-- CAMBIAR -->
+**Sitio publicado:** [https://SU-SITIO.netlify.app](https://tarea5-arqui.netlify.app/blog/)  
 
-**Repositorio de comentarios:** https://github.com/TU-USUARIO/arquitectura-comentarios  <!-- CAMBIAR -->
+**Repositorio de comentarios:** https://github.com/Mathew-ca/arquitectura-comentarios 
 
 ## Descripción
 
