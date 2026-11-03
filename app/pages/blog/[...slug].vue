@@ -17,7 +17,7 @@ useSeoMeta({
 const fmt = (d) => new Date(d).toLocaleDateString('es-CR', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
 
 // CAMBIAR por su repositorio de comentarios
-const commentsRepo = 'TU-USUARIO/arquitectura-comentarios'
+const commentsRepo = 'Mathew-ca/arquitectura-comentarios'
 </script>
 
 <template>
